@@ -5,6 +5,6 @@ public class SkillDemo1Test {
     
     @Test
     public void testSumofSquares() {
-        assertEquals(13, SkillDemo1.sumOfSquares(2, 2)); //Should fail
+        assertEquals(13, SkillDemo1.sumOfSquares(3, 2)); //Should succeed
     }
 }
